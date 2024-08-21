@@ -1,5 +1,5 @@
 ![logo](https://github.com/Rakesh-6610/Rakesh-6610/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Rakesh Karmaker</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate full stack developer and programmer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Weather Compass](https://weather-compass.onrender.com/)
