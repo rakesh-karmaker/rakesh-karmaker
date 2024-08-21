@@ -2,14 +2,14 @@
 <h1 align="center"></h1>
 <h3 align="center">A passionate full stack developer and programmer from Bangladesh</h3>
 
-
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="none">
+<p align="left">
 - 🔭 I’m currently working on [Weather Compass](https://weather-compass.onrender.com/)
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **rakeshkarmaker0175@gmail.com**
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="none">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/rakesh-karmaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
