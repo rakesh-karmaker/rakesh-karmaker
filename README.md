@@ -2,7 +2,7 @@
 <h1 align="center"></h1>
 <h3 align="center">A passionate full stack developer and programmer from Bangladesh</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="none">
 
 - 🔭 I’m currently working on [Weather Compass](https://weather-compass.onrender.com/)
 
