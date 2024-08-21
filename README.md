@@ -23,7 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh-6610&show_icons=true&locale=en&layout=compact" alt="rakesh-6610" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh-6610&show_icons=true&locale=en" alt="rakesh-6610" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-6610&" alt="rakesh-6610" /></p>
 
