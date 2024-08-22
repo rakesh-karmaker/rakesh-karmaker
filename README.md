@@ -16,13 +16,13 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/rakesh-karmaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakesh-6610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakesh-6610" height="30" width="40" /></a>
-<a href="https://dribbble.com/rakesh-karmaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rakesh.karmaker.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rakesh-6610/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakesh-6610" height="30" width="40" /></a>
+<a href="https://dribbble.com/Rakesh_Karmaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
 <a href="https://twitter.com/rakesh_6610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh_6610" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakesh-karmaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
-<a href="https://instagram.com/rakesh__karmaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakesh__karmaker" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/flame hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="flame hunter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakesh-karmaker-a15849322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rakesh__karmaker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakesh__karmaker" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/hellonoone25878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="flame hunter" height="30" width="40" /></a>
 </p>
 
 
