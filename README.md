@@ -6,7 +6,7 @@
 <p align="left">
 <p>
   
-- 🌱 I’m currently learning **React**  
+- 🌱 I’m currently learning **ExpressJS**  
 </p>
 
 - 🔭 I’m currently working on **Weather Compass**
