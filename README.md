@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **NodeJS**  
 </p>
 
-- 🔭 I’m currently working on **Weather Compass**
+- 🔭 I’m currently working on **Colorize**
 
 - 📫 How to reach me **rakeshkarmaker0175@gmail.com**
 
