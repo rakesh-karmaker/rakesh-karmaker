@@ -2,18 +2,23 @@
 <h1 align="center"></h1>
 <h3 align="center">A passionate full stack developer and programmer from Bangladesh</h3>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="none">
+<!-- <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="none"> -->
 <p align="left">
-<p>
+<div align="center">
   
-- 🌱 I’m currently learning **NodeJS**  
-</p>
+  <p>
+    
+  - 🌱 I’m currently learning **NodeJS**  
+  </p>
+  
+  - 🔭 I’m currently working on **Colorize**
+  
+  - 📫 How to reach me **rakeshkarmaker0175@gmail.com**
+  
+  </p>
+</div>
 
-- 🔭 I’m currently working on **Colorize**
 
-- 📫 How to reach me **rakeshkarmaker0175@gmail.com**
-
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/rakesh.karmaker.980" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
