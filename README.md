@@ -7,17 +7,11 @@
 
 <br />
 <div align="center">
-  
-  <p>
-    
    🌱 I’m currently learning **NodeJS**  
-  </p>
   
    🔭 I’m currently working on **Colorize**
   
    📫 How to reach me **rakeshkarmaker0175@gmail.com**
-  
-  </p>
 </div>
 
 
