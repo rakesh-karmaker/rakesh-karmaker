@@ -7,7 +7,9 @@
 
 <br />
 <div align="center">
+   <h4> 
    🌱 I’m currently learning **NodeJS**  
+   </h4>
 
    🔭 I’m currently working on **Colorize**
   
