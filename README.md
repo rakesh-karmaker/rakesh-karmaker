@@ -33,6 +33,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh-6610&show_icons=true&locale=en&layout=compact" alt="rakesh-6610" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-6610&" alt="rakesh-6610" /></p>
 
+
+
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=Ahnaf-nub&icon=6&color=13" align="center" />
+</div>
+
+
+
 <!---
 Rakesh-6610/Rakesh-6610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
