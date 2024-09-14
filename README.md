@@ -7,9 +7,7 @@
 
 <br />
 <div align="center">
-   <p> 
    🌱 I’m currently learning **Nodejs**
-   </p>
 
    🔭 I’m currently working on **Colorize**
   
