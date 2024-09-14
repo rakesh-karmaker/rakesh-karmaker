@@ -12,7 +12,6 @@
 
    🌱 I’m currently learning **Nodejs**
   
-   📫 How to reach me **rakeshkarmaker0175@gmail.com**
 </div>
 
 
