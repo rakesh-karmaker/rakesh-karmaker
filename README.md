@@ -10,7 +10,7 @@
 
    🔭 I’m currently working on **MSCSC**
 
-   🌱 I’m currently learning **Nodejs**
+   🌱 I’m currently learning **Reactjs**
   
 </div>
 
