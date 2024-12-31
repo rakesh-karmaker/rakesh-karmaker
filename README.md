@@ -52,7 +52,6 @@
    <br />
    <br />
 
-   <img src="https://visitcount.itsvg.in/api?id=rakesh-karmaker" align="center" />
 </div>
 
 
