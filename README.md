@@ -8,7 +8,7 @@
 <div align="center">
 
 
-   🔭 I’m currently working on **MSCSC - React Version**
+   🔭 I’m currently working on **My portfolio*
 
    🌱 I’m currently learning **Reactjs**
   
