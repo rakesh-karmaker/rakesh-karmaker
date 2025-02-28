@@ -6,9 +6,9 @@
 
 <div align="center">
 
-   🔭 I’m currently working on **MSCSC**
+   🔭 I’m currently working on **My Portfolio**
 
-   🌱 I’m currently learning **Reactjs**
+   🌱 I’m currently learning **Nextjs**
   
 </div>
 
