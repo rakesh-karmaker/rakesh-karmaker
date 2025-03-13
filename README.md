@@ -23,7 +23,7 @@
 <a href="https://www.hackerrank.com/profile/hellonoone25878" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="flame hunter" height="30" width_="40" /></a>
 </p>
 
- <hr/>
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
