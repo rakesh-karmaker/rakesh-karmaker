@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<!--   🔭 I’m currently working on **EDFUN** -->
+   🔭 I’m currently working on **Whispr**
 
    🌱 I’m currently learning **Nextjs**
   
