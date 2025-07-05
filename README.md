@@ -20,7 +20,6 @@
 <a href="https://x.com/Rakesh_6610" targ_et="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh_6610" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rakesh-karmaker-a15849322/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-karmaker" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rakesh__karmaker/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakesh__karmaker" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/hellonoone25878" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="flame hunter" height="30" width_="40" /></a>
 </p>
 
 <hr/>
