@@ -4,9 +4,9 @@
 
 <div align="center">
 
-   🔭 I’m currently working on **Whispr**
+   🔭 I’m currently working on **Voxkey**
 
-   🌱 I’m currently learning **Nextjs**
+   🌱 I’m currently learning **LLMS**
   
 </div>
 
